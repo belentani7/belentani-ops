@@ -1,0 +1,4 @@
+# belentani-ops usa solo la libreria estandar de Python 3.8+.
+# Sin dependencias obligatorias. Opcionales para funciones extra:
+# huggingface_hub
+# ipfshttpclient
